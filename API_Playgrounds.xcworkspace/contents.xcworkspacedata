@@ -5,9 +5,6 @@
       location = "group:StripeAPI.playground">
    </FileRef>
    <FileRef
-      location = "group:MapKitAPI.playground">
-   </FileRef>
-   <FileRef
       location = "group:ExchangeRateAPI.playground">
    </FileRef>
    <FileRef
