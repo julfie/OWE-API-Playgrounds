@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'CocoaPodsExample' do\
+    pod 'Stripe'
+end
